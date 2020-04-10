@@ -1,0 +1,2 @@
+<!--pages/list/list.wxml-->
+<text bindtap="cjson">pages/list/list.wxml</text>
